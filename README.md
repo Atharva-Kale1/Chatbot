@@ -91,6 +91,3 @@ If the Hugging Face API fails or returns an error:
 * The app supports up to 3 retries for rate-limited or timed-out requests.
 * Basic text cleanup is applied if the API response is wrapped in markdown or quotes.
 
-## License
-
-This project is licensed under the MIT License.
